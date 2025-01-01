@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     print(employee)
 
- 
+ # or 
 
 class Employee:
   
